@@ -1,6 +1,7 @@
 <h2 align="center">
  Quick Todo - v1.0<br/>
-  <a href="" target="_blank">Live App</a>
+  <a href="https://quick-todo-one.vercel.app
+" target="_blank">Live App</a>
 
 </h2>
 
