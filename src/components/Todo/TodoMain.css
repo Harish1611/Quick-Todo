@@ -1,0 +1,53 @@
+
+  input {
+    flex: 1;
+    padding: 8px;
+  }
+  
+  button {
+    padding: 8px;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
+  .task-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  
+  
+  .sortable-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sortable-list li {
+    background-color: #d9d9d9;
+    margin-bottom: 5px;
+    padding: 10px;
+    cursor: move;
+  }
+  
+  .todo-card {
+    background-color: #f2f2f2;
+    margin-bottom: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .todo-card button {
+    margin-left: 5px;
+  }
+
